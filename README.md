@@ -18,7 +18,7 @@ Platform kami dibangun di atas tiga pilar utama:
 
 ## 🤝 Kontribusi & Tim
 
-Proyek ini dikembangkan oleh tim **CC25-CF265-SADAR** sebagai bagian dari program [Nama Program, mis. Bangkit 2024]. Kami adalah sekelompok mahasiswa yang berkolaborasi dari berbagai disiplin ilmu untuk menciptakan solusi keamanan digital yang inovatif.
+Proyek ini dikembangkan oleh tim **CC25-CF265-SADAR**. Kami adalah sekelompok mahasiswa yang berkolaborasi dari berbagai disiplin ilmu untuk menciptakan solusi keamanan digital yang inovatif.
 
 ### Tim Machine Learning (ML)
 
